@@ -1,6 +1,6 @@
 # web dev...
 
-[https://noahbecker.xyz](https://noahbecker.xyz)
+[https://noahbecker.xyz](https://noahbecker.dev)
 
 ---
 
