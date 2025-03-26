@@ -6,7 +6,7 @@
 ╚███╔███╔╝███████╗██████╔╝    ██████╔╝███████╗ ╚████╔╝
  ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  
 ```
-[🌐 noahbecker.dev](https://noahbecker.dev)
+[noahbecker.dev](https://noahbecker.dev)
 
 ---
 
