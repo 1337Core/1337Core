@@ -11,7 +11,7 @@ __ ____  ____  ______ _____
 ---
 
 <p align="center">
- bruh idk how to code
+ gang idk how to code
 </p>
 
 ---
