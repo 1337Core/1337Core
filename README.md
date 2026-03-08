@@ -11,7 +11,7 @@ __ ____  ____  ______ _____
 ---
 
 <p align="center">
- gang idk how to code
+ wassup
 </p>
 
 ---
